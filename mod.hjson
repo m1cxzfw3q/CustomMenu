@@ -1,20 +1,23 @@
 #the mod name as displayed in-game
-displayName: "Java Mod Template"
+displayName: "Custom Menu"
 
 #the internal name of your mod
-name: "example-java-mod"
+name: "custom-menu"
 
 #your name
-author: "You"
+author: "[[]sky]114514[[]white]"
 
 #the fully qualified main class of the mod
-main: "example.ExampleJavaMod"
+main: "m1cxzfw3q.tools.CustomMenu.CMMain"
 
 #the mod description as seen in the mod dialog
-description: "A Mindustry Java mod template."
+description: "
+A mod that allows customizing the menu
+一个可以自定义菜单的模组
+"
 
 #the mod version
-version: 1.0
+version: 0.1
 
 #the minimum game build required to run this mod
 minGameVersion: 154
