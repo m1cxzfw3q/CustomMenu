@@ -1,5 +1,6 @@
 #the mod name as displayed in-game
 displayName: "Custom Menu"
+subtitle："-自定义菜单"
 
 #the internal name of your mod
 name: "custom-menu"
@@ -26,3 +27,4 @@ minGameVersion: 154
 java: true
 
 repo: "m1cxzfw3q/CustomMenu"
+hidden: true
