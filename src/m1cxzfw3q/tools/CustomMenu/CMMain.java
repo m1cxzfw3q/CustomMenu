@@ -6,9 +6,4 @@ public class CMMain extends Mod {
     public CMMain() {
 
     }
-
-    @Override
-    public void loadContent() {
-
-    }
 }

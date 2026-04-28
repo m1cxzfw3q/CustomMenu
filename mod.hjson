@@ -21,7 +21,7 @@ A mod that allows customizing the menu
 version: 0.1
 
 #the minimum game build required to run this mod
-minGameVersion: 154
+minGameVersion: 157
 
 #this is a java mod
 java: true
